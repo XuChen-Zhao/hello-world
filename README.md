@@ -1,2 +1,4 @@
 # hello-world
-This is my first GitHub project .Hello World.
+
+Hi,Humans.
+I am a C language engineer.I want to improve myself.I am trying my best hard.
